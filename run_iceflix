@@ -1,0 +1,5 @@
+#!/bin/bash
+./run_icestorm &
+x-terminal-emulator -e python3 Server.py --Ice.Config=Server.config admin &
+x-terminal-emulator -e python3 AuthenticatorService.py --Ice.Config=AuthenticatorService.config &
+x-terminal-emulator -e python3 Catalog.py --Ice.Config=Catalog.config
