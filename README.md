@@ -1,6 +1,6 @@
 # Members of the team
-## Diego Alba Ruiz <diego.alba@alu.uclm.es>
-## Jesus Calzado Gonzalez <jesus.calzado@alu.uclm.es>
+## Diego Alba Ruiz <diego303.d@gmail.com>
+## Jesus Calzado Gonzalez
 
 * @Diego303 @jcalzadog
 
